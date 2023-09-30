@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alexmejicanos)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/alex_mejicanos)
 
-I am a Senior Software Enginner with experience creating web and mobile applications. Currently I am dedicated to the development of services (API), development of web applications and deployment of applications in clouds such as AWS, Google Cloud and Azure.
+I am a Senior Software Engineer with experience creating web and mobile applications. Currently I am dedicated to the development of services (API), development of web applications and deployment of applications in clouds such as AWS, Google Cloud and Azure.
 
 ### Languages and Tools:
 
